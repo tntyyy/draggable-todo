@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/draggable-todo/static/css/main.bce2325b.css",
+    "main.js": "/draggable-todo/static/js/main.cd7ff579.js",
+    "index.html": "/draggable-todo/index.html",
+    "main.bce2325b.css.map": "/draggable-todo/static/css/main.bce2325b.css.map",
+    "main.cd7ff579.js.map": "/draggable-todo/static/js/main.cd7ff579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce2325b.css",
+    "static/js/main.cd7ff579.js"
+  ]
+}
